@@ -3,7 +3,7 @@
         "guid": "f87f700e-679d-43e6-9c7c-b3a410dc3f12",
         "name": "Jellyfin Upscaler",
         "description": "Enhance video quality with real-time upscaling for supported devices.",
-        "owner": "Kuschel-code",
+        "owner": "Kuschel-code,Manhtungnguyen940610,boyphongsakorn",
         "category": "Video Processing",
         "versions": [
             {
